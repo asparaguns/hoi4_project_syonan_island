@@ -1,0 +1,1156 @@
+defined_text = {
+	name = GetStateName1
+	text = {
+		trigger = {	endonym_co_trigger = yes	}
+		localization_key = STATE_1_co
+	}
+	text = {
+		trigger = {	endonym_fr_trigger = yes	}
+		localization_key = STATE_1_fr
+	}
+	text = {	localization_key = STATE_1_default	}
+}
+defined_text = {
+	name = GetStateName2
+	text = {
+		trigger = {	endonym_la_trigger = yes	}
+		localization_key = STATE_2_la
+	}
+	text = {	localization_key = STATE_2_default	}
+}
+defined_text = {
+	name = GetStateName3
+	text = {
+		trigger = {	endonym_en_trigger = yes	}
+		localization_key = STATE_3_en
+	}
+	text = {
+		trigger = {	endonym_fr_trigger = yes	}
+		localization_key = STATE_3_fr
+	}
+	text = {
+		trigger = {	endonym_it_trigger = yes	}
+		localization_key = STATE_3_it
+	}
+	text = {	localization_key = STATE_3_default	}
+}
+defined_text = {
+	name = GetStateName4
+	text = {
+		trigger = {	endonym_de_trigger = yes	}
+		localization_key = STATE_4_de
+	}
+	text = {
+		trigger = {	endonym_de_nazi_trigger = yes	}
+		localization_key = STATE_4_de_nazi
+	}
+	text = {
+		trigger = {	endonym_en_trigger = yes	}
+		localization_key = STATE_4_en
+	}
+	text = {
+		trigger = {	endonym_it_trigger = yes	}
+		localization_key = STATE_4_it
+	}
+	text = {	localization_key = STATE_4_default	}
+}
+defined_text = {
+	name = GetStateName5
+	text = {
+		trigger = {	endonym_de_trigger = yes	}
+		localization_key = STATE_5_de
+	}
+	text = {
+		trigger = {	endonym_en_trigger = yes	}
+		localization_key = STATE_5_en
+	}
+	text = {
+		trigger = {	endonym_ru_trigger = yes	}
+		localization_key = STATE_5_ru
+	}
+	text = {	localization_key = STATE_5_default	}
+}
+defined_text = {
+	name = GetStateName6
+	text = {
+		trigger = {	endonym_de_trigger = yes	}
+		localization_key = STATE_6_de
+	}
+	text = {
+		trigger = {	endonym_en_trigger = yes	}
+		localization_key = STATE_6_en
+	}
+	text = {
+		trigger = {	endonym_fr_trigger = yes	}
+		localization_key = STATE_6_fr
+	}
+	text = {
+		trigger = {	endonym_nl_trigger = yes	}
+		localization_key = STATE_6_nl
+	}
+	text = {	localization_key = STATE_6_default	}
+}
+defined_text = {
+	name = GetStateName7
+	text = {
+		trigger = {	endonym_pt_trigger = yes	}
+		localization_key = STATE_7_pt
+	}
+	text = {	localization_key = STATE_7_default	}
+}
+defined_text = {
+	name = GetStateName8
+	text = {
+		trigger = {	endonym_de_trigger = yes	}
+		localization_key = STATE_8_de
+	}
+	text = {
+		trigger = {	endonym_en_trigger = yes	}
+		localization_key = STATE_8_en
+	}
+	text = {
+		trigger = {	endonym_fr_trigger = yes	}
+		localization_key = STATE_8_fr
+	}
+	text = {
+		trigger = {	endonym_lb_trigger = yes	}
+		localization_key = STATE_8_lb
+	}
+	text = {	localization_key = STATE_8_default	}
+}
+defined_text = {
+	name = GetStateName9
+	text = {
+		trigger = {	endonym_cs_trigger = yes	}
+		localization_key = STATE_9_cs
+	}
+	text = {
+		trigger = {	endonym_de_trigger = yes	}
+		localization_key = STATE_9_de
+	}
+	text = {	localization_key = STATE_9_default	}
+}
+defined_text = {
+	name = GetStateName10
+	text = {
+		trigger = {	endonym_de_trigger = yes	}
+		localization_key = STATE_10_de
+	}
+	text = {
+		trigger = {	endonym_pl_trigger = yes	}
+		localization_key = STATE_10_pl
+	}
+	text = {
+		trigger = {	endonym_ru_trigger = yes	}
+		localization_key = STATE_10_ru
+	}
+	text = {	localization_key = STATE_10_default	}
+}
+defined_text = {
+	name = GetStateName11
+	text = {
+		trigger = {	endonym_be_trigger = yes	}
+		localization_key = STATE_11_be
+	}
+	text = {
+		trigger = {	endonym_de_trigger = yes	}
+		localization_key = STATE_11_de
+	}
+	text = {
+		trigger = {	endonym_pl_trigger = yes	}
+		localization_key = STATE_11_pl
+	}
+	text = {
+		trigger = {	endonym_ru_trigger = yes	}
+		localization_key = STATE_11_ru
+	}
+	text = {	localization_key = STATE_11_default	}
+}
+defined_text = {
+	name = GetStateName12
+	text = {
+		trigger = {	endonym_de_trigger = yes	}
+		localization_key = STATE_12_de
+	}
+	text = {
+		trigger = {	endonym_la_trigger = yes	}
+		localization_key = STATE_12_la
+	}
+	text = {
+		trigger = {	endonym_pl_trigger = yes	}
+		localization_key = STATE_12_pl
+	}
+	text = {
+		trigger = {	endonym_ru_trigger = yes	}
+		localization_key = STATE_12_ru
+	}
+	text = {
+		trigger = {	endonym_sv_trigger = yes	}
+		localization_key = STATE_12_sv
+	}
+	text = {	localization_key = STATE_12_default	}
+}
+defined_text = {
+	name = GetStateName13
+	text = {
+		trigger = {	endonym_de_trigger = yes	}
+		localization_key = STATE_13_de
+	}
+	text = {
+		trigger = {	endonym_ru_trigger = yes	}
+		localization_key = STATE_13_ru
+	}
+	text = {
+		trigger = {	endonym_sv_trigger = yes	}
+		localization_key = STATE_13_sv
+	}
+	text = {	localization_key = STATE_13_default	}
+}
+defined_text = {
+	name = GetStateName14
+	text = {
+		trigger = {	endonym_br_trigger = yes	}
+		localization_key = STATE_14_br
+	}
+	text = {
+		trigger = {	endonym_en_trigger = yes	}
+		localization_key = STATE_14_en
+	}
+	text = {
+		trigger = {	endonym_fr_trigger = yes	}
+		localization_key = STATE_14_fr
+	}
+	text = {	localization_key = STATE_14_default	}
+}
+defined_text = {
+	name = GetStateName15
+	text = {
+		trigger = {	endonym_en_trigger = yes	}
+		localization_key = STATE_15_en
+	}
+	text = {
+		trigger = {	endonym_fr_trigger = yes	}
+		localization_key = STATE_15_fr
+	}
+	text = {	localization_key = STATE_15_default	}
+}
+defined_text = {
+	name = GetStateName16
+	text = {
+		trigger = {	endonym_en_trigger = yes	}
+		localization_key = STATE_16_en
+	}
+	text = {	localization_key = STATE_16_default	}
+}
+defined_text = {
+	name = GetStateName17
+	text = {
+		trigger = {	endonym_de_trigger = yes	}
+		localization_key = STATE_17_de
+	}
+	text = {
+		trigger = {	endonym_en_trigger = yes	}
+		localization_key = STATE_17_en
+	}
+	text = {
+		trigger = {	endonym_es_trigger = yes	}
+		localization_key = STATE_17_es
+	}
+	text = {	localization_key = STATE_17_default	}
+}
+defined_text = {
+	name = GetStateName18
+	text = {	localization_key = STATE_18_default	}
+}
+defined_text = {
+	name = GetStateName19
+	text = {
+		trigger = {	endonym_en_trigger = yes	}
+		localization_key = STATE_19_en
+	}
+	text = {
+		trigger = {	endonym_eu_trigger = yes	}
+		localization_key = STATE_19_eu
+	}
+	text = {
+		trigger = {	endonym_la_trigger = yes	}
+		localization_key = STATE_19_la
+	}
+	text = {
+		trigger = {	endonym_oc_trigger = yes	}
+		localization_key = STATE_19_oc
+	}
+	text = {	localization_key = STATE_19_default	}
+}
+defined_text = {
+	name = GetStateName20
+	text = {
+		trigger = {	endonym_it_trigger = yes	}
+		localization_key = STATE_20_it
+	}
+	text = {
+		trigger = {	endonym_la_trigger = yes	}
+		localization_key = STATE_20_la
+	}
+	text = {
+		trigger = {	endonym_oc_trigger = yes	}
+		localization_key = STATE_20_oc
+	}
+	text = {	localization_key = STATE_20_default	}
+}
+defined_text = {
+	name = GetStateName21
+	text = {
+		trigger = {	endonym_it_trigger = yes	}
+		localization_key = STATE_21_it
+	}
+	text = {
+		trigger = {	endonym_la_trigger = yes	}
+		localization_key = STATE_21_la
+	}
+	text = {
+		trigger = {	endonym_oc_trigger = yes	}
+		localization_key = STATE_21_oc
+	}
+	text = {	localization_key = STATE_21_default	}
+}
+defined_text = {
+	name = GetStateName22
+	text = {
+		trigger = {	endonym_oc_trigger = yes	}
+		localization_key = STATE_22_oc
+	}
+	text = {	localization_key = STATE_22_default	}
+}
+defined_text = {
+	name = GetStateName23
+	text = {	localization_key = STATE_23_default	}
+}
+defined_text = {
+	name = GetStateName24
+	text = {
+		trigger = {	endonym_en_trigger = yes	}
+		localization_key = STATE_24_en
+	}
+	text = {	localization_key = STATE_24_default	}
+}
+defined_text = {
+	name = GetStateName25
+	text = {	localization_key = STATE_25_default	}
+}
+defined_text = {
+	name = GetStateName26
+	text = {	localization_key = STATE_26_default	}
+}
+defined_text = {
+	name = GetStateName27
+	text = {
+		trigger = {	endonym_de_trigger = yes	}
+		localization_key = STATE_27_de
+	}
+	text = {
+		trigger = {	endonym_en_trigger = yes	}
+		localization_key = STATE_27_en
+	}
+	text = {
+		trigger = {	endonym_fr_trigger = yes	}
+		localization_key = STATE_27_fr
+	}
+	text = {	localization_key = STATE_27_default	}
+}
+defined_text = {
+	name = GetStateName28
+	text = {
+		trigger = {	endonym_de_trigger = yes	}
+		localization_key = STATE_28_de
+	}
+	text = {
+		trigger = {	endonym_it_trigger = yes	}
+		localization_key = STATE_28_it
+	}
+	text = {	localization_key = STATE_28_default	}
+}
+defined_text = {
+	name = GetStateName29
+	text = {
+		trigger = {	endonym_de_trigger = yes	}
+		localization_key = STATE_29_de
+	}
+	text = {
+		trigger = {	endonym_nl_trigger = yes	}
+		localization_key = STATE_29_nl
+	}
+	text = {	localization_key = STATE_29_default	}
+}
+defined_text = {
+	name = GetStateName30
+	text = {
+		trigger = {	endonym_br_trigger = yes	}
+		localization_key = STATE_30_br
+	}
+	text = {	localization_key = STATE_30_default	}
+}
+defined_text = {
+	name = GetStateName31
+	text = {	localization_key = STATE_31_default	}
+}
+defined_text = {
+	name = GetStateName32
+	text = {
+		trigger = {	endonym_oc_trigger = yes	}
+		localization_key = STATE_32_oc
+	}
+	text = {	localization_key = STATE_32_default	}
+}
+defined_text = {
+	name = GetStateName33
+	text = {
+		trigger = {	endonym_oc_trigger = yes	}
+		localization_key = STATE_33_oc
+	}
+	text = {	localization_key = STATE_33_default	}
+}
+defined_text = {
+	name = GetStateName34
+	text = {
+		trigger = {	endonym_de_trigger = yes	}
+		localization_key = STATE_34_de
+	}
+	text = {
+		trigger = {	endonym_en_trigger = yes	}
+		localization_key = STATE_34_en
+	}
+	text = {
+		trigger = {	endonym_fr_trigger = yes	}
+		localization_key = STATE_34_fr
+	}
+	text = {
+		trigger = {	endonym_nl_trigger = yes	}
+		localization_key = STATE_34_nl
+	}
+	text = {	localization_key = STATE_34_default	}
+}
+defined_text = {
+	name = GetStateName35
+	text = {
+		trigger = {	endonym_de_trigger = yes	}
+		localization_key = STATE_35_de
+	}
+	text = {
+		trigger = {	endonym_en_trigger = yes	}
+		localization_key = STATE_35_en
+	}
+	text = {
+		trigger = {	endonym_nl_trigger = yes	}
+		localization_key = STATE_35_nl
+	}
+	text = {	localization_key = STATE_35_default	}
+}
+defined_text = {
+	name = GetStateName36
+	text = {
+		trigger = {	endonym_da_trigger = yes	}
+		localization_key = STATE_36_da
+	}
+	text = {
+		trigger = {	endonym_de_trigger = yes	}
+		localization_key = STATE_36_de
+	}
+	text = {
+		trigger = {	endonym_en_trigger = yes	}
+		localization_key = STATE_36_en
+	}
+	text = {
+		trigger = {	endonym_nl_trigger = yes	}
+		localization_key = STATE_36_nl
+	}
+	text = {	localization_key = STATE_36_default	}
+}
+defined_text = {
+	name = GetStateName37
+	text = {
+		trigger = {	endonym_da_trigger = yes	}
+		localization_key = STATE_37_da
+	}
+	text = {
+		trigger = {	endonym_en_trigger = yes	}
+		localization_key = STATE_37_en
+	}
+	text = {	localization_key = STATE_37_default	}
+}
+defined_text = {
+	name = GetStateName38
+	text = {
+		trigger = {	endonym_de_trigger = yes	}
+		localization_key = STATE_38_de
+	}
+	text = {
+		trigger = {	endonym_en_trigger = yes	}
+		localization_key = STATE_38_en
+	}
+	text = {
+		trigger = {	endonym_ja_trigger = yes	}
+		localization_key = STATE_38_ja
+	}
+	text = {	localization_key = STATE_38_default	}
+}
+defined_text = {
+	name = GetStateName39
+	text = {
+		trigger = {	endonym_de_trigger = yes	}
+		localization_key = STATE_39_de
+	}
+	text = {
+		trigger = {	endonym_fr_trigger = yes	}
+		localization_key = STATE_39_fr
+	}
+	text = {
+		trigger = {	endonym_it_trigger = yes	}
+		localization_key = STATE_39_it
+	}
+	text = {	localization_key = STATE_39_default	}
+}
+defined_text = {
+	name = GetStateName40
+	text = {	localization_key = STATE_40_default	}
+}
+defined_text = {
+	name = GetStateName41
+	text = {
+		trigger = {	endonym_en_trigger = yes	}
+		localization_key = STATE_41_en
+	}
+	text = {
+		trigger = {	endonym_es_trigger = yes	}
+		localization_key = STATE_41_es
+	}
+	text = {
+		trigger = {	endonym_fr_trigger = yes	}
+		localization_key = STATE_41_fr
+	}
+	text = {	localization_key = STATE_41_default	}
+}
+defined_text = {
+	name = GetStateName42
+	text = {
+		trigger = {	endonym_de_trigger = yes	}
+		localization_key = STATE_42_de
+	}
+	text = {
+		trigger = {	endonym_en_trigger = yes	}
+		localization_key = STATE_42_en
+	}
+	text = {
+		trigger = {	endonym_fr_trigger = yes	}
+		localization_key = STATE_42_fr
+	}
+	text = {
+		trigger = {	endonym_nl_trigger = yes	}
+		localization_key = STATE_42_nl
+	}
+	text = {	localization_key = STATE_42_default	}
+}
+defined_text = {
+	name = GetStateName43
+	text = {
+		trigger = {	endonym_de_trigger = yes	}
+		localization_key = STATE_43_de
+	}
+	text = {
+		trigger = {	endonym_en_trigger = yes	}
+		localization_key = STATE_43_en
+	}
+	text = {
+		trigger = {	endonym_hu_trigger = yes	}
+		localization_key = STATE_43_hu
+	}
+	text = {
+		trigger = {	endonym_ja_trigger = yes	}
+		localization_key = STATE_43_ja
+	}
+	text = {	localization_key = STATE_43_default	}
+}
+defined_text = {
+	name = GetStateName44
+	text = {
+		trigger = {	endonym_sq_trigger = yes	}
+		localization_key = STATE_44_sq
+	}
+	text = {	localization_key = STATE_44_default	}
+}
+defined_text = {
+	name = GetStateName45
+	text = {
+		trigger = {	endonym_de_trigger = yes	}
+		localization_key = STATE_45_de
+	}
+	text = {
+		trigger = {	endonym_hu_trigger = yes	}
+		localization_key = STATE_45_hu
+	}
+	text = {
+		trigger = {	endonym_ro_trigger = yes	}
+		localization_key = STATE_45_ro
+	}
+	text = {	localization_key = STATE_45_default	}
+}
+defined_text = {
+	name = GetStateName46
+	text = {
+		trigger = {	endonym_tr_trigger = yes	}
+		localization_key = STATE_46_tr
+	}
+	text = {	localization_key = STATE_46_default	}
+}
+defined_text = {
+	name = GetStateName47
+	text = {
+		trigger = {	endonym_de_trigger = yes	}
+		localization_key = STATE_47_de
+	}
+	text = {
+		trigger = {	endonym_el_trigger = yes	}
+		localization_key = STATE_47_el
+	}
+	text = {
+		trigger = {	endonym_en_trigger = yes	}
+		localization_key = STATE_47_en
+	}
+	text = {
+		trigger = {	endonym_it_trigger = yes	}
+		localization_key = STATE_47_it
+	}
+	text = {
+		trigger = {	endonym_la_trigger = yes	}
+		localization_key = STATE_47_la
+	}
+	text = {
+		trigger = {	endonym_tr_trigger = yes	}
+		localization_key = STATE_47_tr
+	}
+	text = {	localization_key = STATE_47_default	}
+}
+defined_text = {
+	name = GetStateName48
+	text = {
+		trigger = {	endonym_bg_trigger = yes	}
+		localization_key = STATE_48_bg
+	}
+	text = {	localization_key = STATE_48_default	}
+}
+defined_text = {
+	name = GetStateName49
+	text = {
+		trigger = {	endonym_la_trigger = yes	}
+		localization_key = STATE_49_la
+	}
+	text = {	localization_key = STATE_49_default	}
+}
+defined_text = {
+	name = GetStateName50
+	text = {	localization_key = STATE_50_default	}
+}
+defined_text = {
+	name = GetStateName51
+	text = {
+		trigger = {	endonym_da_trigger = yes	}
+		localization_key = STATE_51_da
+	}
+	text = {
+		trigger = {	endonym_en_trigger = yes	}
+		localization_key = STATE_51_en
+	}
+	text = {
+		trigger = {	endonym_fr_trigger = yes	}
+		localization_key = STATE_51_fr
+	}
+	text = {	localization_key = STATE_51_default	}
+}
+defined_text = {
+	name = GetStateName52
+	text = {
+		trigger = {	endonym_de_trigger = yes	}
+		localization_key = STATE_52_de
+	}
+	text = {
+		trigger = {	endonym_de_nazi_trigger = yes	}
+		localization_key = STATE_52_de_nazi
+	}
+	text = {
+		trigger = {	endonym_en_trigger = yes	}
+		localization_key = STATE_52_en
+	}
+	text = {
+		trigger = {	endonym_fr_trigger = yes	}
+		localization_key = STATE_52_fr
+	}
+	text = {
+		trigger = {	endonym_it_trigger = yes	}
+		localization_key = STATE_52_it
+	}
+	text = {	localization_key = STATE_52_default	}
+}
+defined_text = {
+	name = GetStateName53
+	text = {
+		trigger = {	endonym_de_trigger = yes	}
+		localization_key = STATE_53_de
+	}
+	text = {
+		trigger = {	endonym_en_trigger = yes	}
+		localization_key = STATE_53_en
+	}
+	text = {
+		trigger = {	endonym_fr_trigger = yes	}
+		localization_key = STATE_53_fr
+	}
+	text = {
+		trigger = {	endonym_it_trigger = yes	}
+		localization_key = STATE_53_it
+	}
+	text = {	localization_key = STATE_53_default	}
+}
+defined_text = {
+	name = GetStateName54
+	text = {
+		trigger = {	endonym_de_trigger = yes	}
+		localization_key = STATE_54_de
+	}
+	text = {
+		trigger = {	endonym_de_nazi_trigger = yes	}
+		localization_key = STATE_54_de_nazi
+	}
+	text = {
+		trigger = {	endonym_en_trigger = yes	}
+		localization_key = STATE_54_en
+	}
+	text = {
+		trigger = {	endonym_fr_trigger = yes	}
+		localization_key = STATE_54_fr
+	}
+	text = {	localization_key = STATE_54_default	}
+}
+defined_text = {
+	name = GetStateName55
+	text = {
+		trigger = {	endonym_de_trigger = yes	}
+		localization_key = STATE_55_de
+	}
+	text = {
+		trigger = {	endonym_en_trigger = yes	}
+		localization_key = STATE_55_en
+	}
+	text = {
+		trigger = {	endonym_fr_trigger = yes	}
+		localization_key = STATE_55_fr
+	}
+	text = {	localization_key = STATE_55_default	}
+}
+defined_text = {
+	name = GetStateName56
+	text = {
+		trigger = {	endonym_en_trigger = yes	}
+		localization_key = STATE_56_en
+	}
+	text = {	localization_key = STATE_56_default	}
+}
+defined_text = {
+	name = GetStateName57
+	text = {
+		trigger = {	endonym_de_trigger = yes	}
+		localization_key = STATE_57_de
+	}
+	text = {
+		trigger = {	endonym_en_trigger = yes	}
+		localization_key = STATE_57_en
+	}
+	text = {
+		trigger = {	endonym_fr_trigger = yes	}
+		localization_key = STATE_57_fr
+	}
+	text = {
+		trigger = {	endonym_la_trigger = yes	}
+		localization_key = STATE_57_la
+	}
+	text = {	localization_key = STATE_57_default	}
+}
+defined_text = {
+	name = GetStateName58
+	text = {
+		trigger = {	endonym_da_trigger = yes	}
+		localization_key = STATE_58_da
+	}
+	text = {	localization_key = STATE_58_default	}
+}
+defined_text = {
+	name = GetStateName59
+	text = {
+		trigger = {	endonym_de_nazi_trigger = yes	}
+		localization_key = STATE_59_de_nazi
+	}
+	text = {	localization_key = STATE_59_default	}
+}
+defined_text = {
+	name = GetStateName60
+	text = {
+		trigger = {	endonym_de_trigger = yes	}
+		localization_key = STATE_60_de
+	}
+	text = {
+		trigger = {	endonym_en_trigger = yes	}
+		localization_key = STATE_60_en
+	}
+	text = {
+		trigger = {	endonym_fr_trigger = yes	}
+		localization_key = STATE_60_fr
+	}
+	text = {	localization_key = STATE_60_default	}
+}
+defined_text = {
+	name = GetStateName61
+	text = {
+		trigger = {	endonym_en_trigger = yes	}
+		localization_key = STATE_61_en
+	}
+	text = {
+		trigger = {	endonym_fr_trigger = yes	}
+		localization_key = STATE_61_fr
+	}
+	text = {	localization_key = STATE_61_default	}
+}
+defined_text = {
+	name = GetStateName62
+	text = {
+		trigger = {	endonym_en_trigger = yes	}
+		localization_key = STATE_62_en
+	}
+	text = {
+		trigger = {	endonym_pl_trigger = yes	}
+		localization_key = STATE_62_pl
+	}
+	text = {
+		trigger = {	endonym_ru_trigger = yes	}
+		localization_key = STATE_62_ru
+	}
+	text = {	localization_key = STATE_62_default	}
+}
+defined_text = {
+	name = GetStateName63
+	text = {
+		trigger = {	endonym_de_trigger = yes	}
+		localization_key = STATE_63_de
+	}
+	text = {
+		trigger = {	endonym_en_trigger = yes	}
+		localization_key = STATE_63_en
+	}
+	text = {
+		trigger = {	endonym_pl_trigger = yes	}
+		localization_key = STATE_63_pl
+	}
+	text = {
+		trigger = {	endonym_ru_trigger = yes	}
+		localization_key = STATE_63_ru
+	}
+	text = {	localization_key = STATE_63_default	}
+}
+defined_text = {
+	name = GetStateName64
+	text = {
+		trigger = {	endonym_en_trigger = yes	}
+		localization_key = STATE_64_en
+	}
+	text = {
+		trigger = {	endonym_fr_trigger = yes	}
+		localization_key = STATE_64_fr
+	}
+	text = {	localization_key = STATE_64_default	}
+}
+defined_text = {
+	name = GetStateName65
+	text = {
+		trigger = {	endonym_de_trigger = yes	}
+		localization_key = STATE_65_de
+	}
+	text = {
+		trigger = {	endonym_en_trigger = yes	}
+		localization_key = STATE_65_en
+	}
+	text = {
+		trigger = {	endonym_fr_trigger = yes	}
+		localization_key = STATE_65_fr
+	}
+	text = {	localization_key = STATE_65_default	}
+}
+defined_text = {
+	name = GetStateName66
+	text = {
+		trigger = {	endonym_cs_trigger = yes	}
+		localization_key = STATE_66_cs
+	}
+	text = {
+		trigger = {	endonym_de_trigger = yes	}
+		localization_key = STATE_66_de
+	}
+	text = {
+		trigger = {	endonym_en_trigger = yes	}
+		localization_key = STATE_66_en
+	}
+	text = {
+		trigger = {	endonym_fr_trigger = yes	}
+		localization_key = STATE_66_fr
+	}
+	text = {
+		trigger = {	endonym_hu_trigger = yes	}
+		localization_key = STATE_66_hu
+	}
+	text = {
+		trigger = {	endonym_la_trigger = yes	}
+		localization_key = STATE_66_la
+	}
+	text = {
+		trigger = {	endonym_pl_trigger = yes	}
+		localization_key = STATE_66_pl
+	}
+	text = {	localization_key = STATE_66_default	}
+}
+defined_text = {
+	name = GetStateName67
+	text = {
+		trigger = {	endonym_cs_trigger = yes	}
+		localization_key = STATE_67_cs
+	}
+	text = {
+		trigger = {	endonym_de_trigger = yes	}
+		localization_key = STATE_67_de
+	}
+	text = {
+		trigger = {	endonym_en_trigger = yes	}
+		localization_key = STATE_67_en
+	}
+	text = {
+		trigger = {	endonym_fr_trigger = yes	}
+		localization_key = STATE_67_fr
+	}
+	text = {
+		trigger = {	endonym_hu_trigger = yes	}
+		localization_key = STATE_67_hu
+	}
+	text = {
+		trigger = {	endonym_la_trigger = yes	}
+		localization_key = STATE_67_la
+	}
+	text = {
+		trigger = {	endonym_pl_trigger = yes	}
+		localization_key = STATE_67_pl
+	}
+	text = {	localization_key = STATE_67_default	}
+}
+defined_text = {
+	name = GetStateName68
+	text = {
+		trigger = {	endonym_de_trigger = yes	}
+		localization_key = STATE_68_de
+	}
+	text = {
+		trigger = {	endonym_pl_trigger = yes	}
+		localization_key = STATE_68_pl
+	}
+	text = {
+		trigger = {	endonym_ru_trigger = yes	}
+		localization_key = STATE_68_ru
+	}
+	text = {	localization_key = STATE_68_default	}
+}
+defined_text = {
+	name = GetStateName69
+	text = {
+		trigger = {	endonym_de_trigger = yes	}
+		localization_key = STATE_69_de
+	}
+	text = {	localization_key = STATE_69_default	}
+}
+defined_text = {
+	name = GetStateName70
+	text = {
+		trigger = {	endonym_HUN_JAP_trigger = yes	}
+		localization_key = STATE_70_HUN_JAP
+	}
+	text = {
+		trigger = {	endonym_cs_trigger = yes	}
+		localization_key = STATE_70_cs
+	}
+	text = {
+		trigger = {	endonym_de_trigger = yes	}
+		localization_key = STATE_70_de
+	}
+	text = {
+		trigger = {	endonym_en_trigger = yes	}
+		localization_key = STATE_70_en
+	}
+	text = {
+		trigger = {	endonym_hu_trigger = yes	}
+		localization_key = STATE_70_hu
+	}
+	text = {
+		trigger = {	endonym_sk_trigger = yes	}
+		localization_key = STATE_70_sk
+	}
+	text = {	localization_key = STATE_70_default	}
+}
+defined_text = {
+	name = GetStateName71
+	text = {
+		trigger = {	endonym_HUN_JAP_trigger = yes	}
+		localization_key = STATE_71_HUN_JAP
+	}
+	text = {
+		trigger = {	endonym_cs_trigger = yes	}
+		localization_key = STATE_71_cs
+	}
+	text = {
+		trigger = {	endonym_de_trigger = yes	}
+		localization_key = STATE_71_de
+	}
+	text = {
+		trigger = {	endonym_en_trigger = yes	}
+		localization_key = STATE_71_en
+	}
+	text = {
+		trigger = {	endonym_hu_trigger = yes	}
+		localization_key = STATE_71_hu
+	}
+	text = {
+		trigger = {	endonym_sk_trigger = yes	}
+		localization_key = STATE_71_sk
+	}
+	text = {	localization_key = STATE_71_default	}
+}
+defined_text = {
+	name = GetStateName72
+	text = {
+		trigger = {	endonym_cs_trigger = yes	}
+		localization_key = STATE_72_cs
+	}
+	text = {
+		trigger = {	endonym_de_trigger = yes	}
+		localization_key = STATE_72_de
+	}
+	text = {
+		trigger = {	endonym_pl_trigger = yes	}
+		localization_key = STATE_72_pl
+	}
+	text = {
+		trigger = {	endonym_sk_trigger = yes	}
+		localization_key = STATE_72_sk
+	}
+	text = {	localization_key = STATE_72_default	}
+}
+defined_text = {
+	name = GetStateName73
+	text = {
+		trigger = {	endonym_cs_trigger = yes	}
+		localization_key = STATE_73_cs
+	}
+	text = {
+		trigger = {	endonym_de_trigger = yes	}
+		localization_key = STATE_73_de
+	}
+	text = {
+		trigger = {	endonym_hu_trigger = yes	}
+		localization_key = STATE_73_hu
+	}
+	text = {
+		trigger = {	endonym_pl_trigger = yes	}
+		localization_key = STATE_73_pl
+	}
+	text = {
+		trigger = {	endonym_sk_trigger = yes	}
+		localization_key = STATE_73_sk
+	}
+	text = {
+		trigger = {	endonym_uk_trigger = yes	}
+		localization_key = STATE_73_uk
+	}
+	text = {	localization_key = STATE_73_default	}
+}
+defined_text = {
+	name = GetStateName74
+	text = {
+		trigger = {	endonym_de_trigger = yes	}
+		localization_key = STATE_74_de
+	}
+	text = {
+		trigger = {	endonym_pl_trigger = yes	}
+		localization_key = STATE_74_pl
+	}
+	text = {	localization_key = STATE_74_default	}
+}
+defined_text = {
+	name = GetStateName75
+	text = {
+		trigger = {	endonym_cs_trigger = yes	}
+		localization_key = STATE_75_cs
+	}
+	text = {
+		trigger = {	endonym_de_trigger = yes	}
+		localization_key = STATE_75_de
+	}
+	text = {	localization_key = STATE_75_default	}
+}
+defined_text = {
+	name = GetStateName76
+	text = {
+		trigger = {	endonym_de_trigger = yes	}
+		localization_key = STATE_76_de
+	}
+	text = {
+		trigger = {	endonym_en_trigger = yes	}
+		localization_key = STATE_76_en
+	}
+	text = {
+		trigger = {	endonym_hu_trigger = yes	}
+		localization_key = STATE_76_hu
+	}
+	text = {
+		trigger = {	endonym_ro_trigger = yes	}
+		localization_key = STATE_76_ro
+	}
+	text = {
+		trigger = {	endonym_tr_trigger = yes	}
+		localization_key = STATE_76_tr
+	}
+	text = {	localization_key = STATE_76_default	}
+}
+defined_text = {
+	name = GetStateName77
+	text = {
+		trigger = {	endonym_bg_trigger = yes	}
+		localization_key = STATE_77_bg
+	}
+	text = {
+		trigger = {	endonym_en_trigger = yes	}
+		localization_key = STATE_77_en
+	}
+	text = {
+		trigger = {	endonym_ro_trigger = yes	}
+		localization_key = STATE_77_ro
+	}
+	text = {	localization_key = STATE_77_default	}
+}
+defined_text = {
+	name = GetStateName1420
+	text = {
+		trigger = {	endonym_de_trigger = yes	}
+		localization_key = STATE_1420_de
+	}
+	text = {
+		trigger = {	endonym_en_trigger = yes	}
+		localization_key = STATE_1420_en
+	}
+	text = {
+		trigger = {	endonym_fr_trigger = yes	}
+		localization_key = STATE_1420_fr
+	}
+	text = {	localization_key = STATE_1420_default	}
+}

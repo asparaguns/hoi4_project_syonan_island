@@ -1,0 +1,11 @@
+defined_text = {
+	name = GetVictoryPoints3838	text = {
+		trigger = {	endonym_co_trigger = yes	}
+		localization_key = VICTORY_POINTS_3838_co
+	}
+	text = {
+		trigger = {	endonym_it_trigger = yes	}
+		localization_key = VICTORY_POINTS_3838_it
+	}
+	text = {	localization_key = VICTORY_POINTS_3838_default	}
+}
