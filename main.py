@@ -10,7 +10,7 @@ class ModSelectWindow:
 			[sg.Combo(database.mod_list(), key="mod_name", readonly=True)],
 			[sg.Button("決定")]
 		]
-		self.window = sg.Window("作成Mod", self.layout, finalize = True)
+		self.window = sg.Window("作成Mod", self.layout, keep_on_top = True, finalize = True)
 	def main(self):
 		while True:
 			event, values = self.window.read()
@@ -38,7 +38,7 @@ class AddCountryWindow:
 			[sg.Text("追加モード", size = (8, 1)), sg.Combo(["ステート名追加", "VP名追加"], key="mode", default_value = "ステート名追加", readonly = True)],
 			[sg.Submit(button_text="追加")]
 		]
-		self.window = sg.Window("ステート追加", self.layout0, finalize=True)
+		self.window = sg.Window("ステート追加", self.layout0, keep_on_top = True, finalize=True)
 	
 	def main(self):
 		while True:

@@ -21,7 +21,9 @@ def csv_edit(mod_name, csv_name, add_data):
 		writer.writerows(current_list)
 
 def csv_open_sort_edit(mod_name, csv_name, sort_key):
-	if csv_name != "":
+	if csv_name == "lang":
+		field_name = ["id", "name", "continent", "type"]
+	elif csv_name != "":
 		field_name = ["id", "japanese", "english", "lang"]
 	current_list = csv_sort(csv_open(mod_name, csv_name), sort_key)
 	with open('./{}/{}.csv'.format(mod_name, csv_name), mode="w", encoding='utf8') as f:
@@ -46,11 +48,14 @@ def check_value(mod_name, csv_name, key_name, value_name):
 			return True
 
 def check_folder(mod_name):
+	scripted_trigger_folder = "./{0}/common/scripted_trigger".format(mod_name)
 	scripted_localisation_folder = "./{0}/common/scripted_localisation".format(mod_name)
 	localisation_folder = "./{0}/localisation/japanese/map".format(mod_name)
 	en_localisation_folder = "./{0}/localisation/english/map".format(mod_name)
 	if not os.path.exists(mod_name):
 		os.makedirs(mod_name)
+	if not os.path.exists(scripted_trigger_folder):
+		os.makedirs(scripted_trigger_folder)
 	if not os.path.exists(scripted_localisation_folder):
 		os.makedirs(scripted_localisation_folder)
 	if not os.path.exists(localisation_folder):
